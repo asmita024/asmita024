@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Asmita pal
-- 👀 I’m interested in web development and Data structure and algorithms
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me 
+Hwello , My name is Asmita Pal , i'm a pre-final year student at IGDTUW .
+Currently i'm pursuing my B.tech in Electronics and Communication engineering with specialization in Artificial Intelligence.
+and i'm intrested in Generative AI and web Deevelopment.
 
-<!---
-asmita024/asmita024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
